@@ -1,0 +1,2355 @@
+[
+  {
+    "_id": "69f87e23cccf553f814b7db7",
+    "question": "Which data structure is used for DFS?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Stack",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7db8",
+    "question": "Which data structure is used for BFS?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "answer": "Queue",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7db9",
+    "question": "Time complexity of binary search?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "answer": "O(log n)",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dba",
+    "question": "Which structure uses FIFO?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "answer": "Queue",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dbb",
+    "question": "Which structure uses LIFO?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Tree",
+      "Graph"
+    ],
+    "answer": "Stack",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dbc",
+    "question": "Best case of Quick Sort?",
+    "options": [
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "answer": "O(n log n)",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dbd",
+    "question": "Worst case of Quick Sort?",
+    "options": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "answer": "O(n^2)",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dbe",
+    "question": "Merge sort complexity?",
+    "options": [
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "answer": "O(n log n)",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dbf",
+    "question": "Heap is implemented using?",
+    "options": [
+      "Array",
+      "Stack",
+      "Queue",
+      "Graph"
+    ],
+    "answer": "Array",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dc0",
+    "question": "Height of balanced BST?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(1)",
+      "O(n log n)"
+    ],
+    "answer": "O(log n)",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dc1",
+    "question": "Which traversal is root-left-right?",
+    "options": [
+      "Inorder",
+      "Preorder",
+      "Postorder",
+      "Level order"
+    ],
+    "answer": "Preorder",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dc2",
+    "question": "Which traversal is left-root-right?",
+    "options": [
+      "Inorder",
+      "Preorder",
+      "Postorder",
+      "Level order"
+    ],
+    "answer": "Inorder",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dc3",
+    "question": "Which traversal is left-right-root?",
+    "options": [
+      "Inorder",
+      "Preorder",
+      "Postorder",
+      "Level order"
+    ],
+    "answer": "Postorder",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dc4",
+    "question": "Graph stored using?",
+    "options": [
+      "Array",
+      "Adjacency list",
+      "Stack",
+      "Queue"
+    ],
+    "answer": "Adjacency list",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dc5",
+    "question": "Dijkstra algorithm is used for?",
+    "options": [
+      "Sorting",
+      "Shortest path",
+      "Searching",
+      "Traversal"
+    ],
+    "answer": "Shortest path",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dc6",
+    "question": "Linear search complexity?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "answer": "O(n)",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dc7",
+    "question": "Stack push operation?",
+    "options": [
+      "Insert",
+      "Delete",
+      "Push",
+      "Pop"
+    ],
+    "answer": "Push",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dc8",
+    "question": "Stack pop operation?",
+    "options": [
+      "Insert",
+      "Delete",
+      "Push",
+      "Pop"
+    ],
+    "answer": "Pop",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dc9",
+    "question": "Queue enqueue?",
+    "options": [
+      "Insert",
+      "Delete",
+      "Push",
+      "Pop"
+    ],
+    "answer": "Insert",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dca",
+    "question": "Queue dequeue?",
+    "options": [
+      "Insert",
+      "Delete",
+      "Push",
+      "Pop"
+    ],
+    "answer": "Delete",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dcb",
+    "question": "AVL tree is?",
+    "options": [
+      "Balanced BST",
+      "Graph",
+      "Heap",
+      "Queue"
+    ],
+    "answer": "Balanced BST",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dcc",
+    "question": "Binary tree max children?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dcd",
+    "question": "Hashing used for?",
+    "options": [
+      "Sorting",
+      "Searching",
+      "Traversal",
+      "Path"
+    ],
+    "answer": "Searching",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dce",
+    "question": "Collision resolution method?",
+    "options": [
+      "Chaining",
+      "Sorting",
+      "Searching",
+      "Traversal"
+    ],
+    "answer": "Chaining",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dcf",
+    "question": "Recursion uses?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Heap",
+      "Tree"
+    ],
+    "answer": "Stack",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dd0",
+    "question": "Tail recursion?",
+    "options": [
+      "Last operation recursive",
+      "First operation",
+      "Middle",
+      "None"
+    ],
+    "answer": "Last operation recursive",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dd1",
+    "question": "Linked list access time?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "answer": "O(n)",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dd2",
+    "question": "Array access time?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "answer": "O(1)",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dd3",
+    "question": "Heap property?",
+    "options": [
+      "Parent > child",
+      "Parent < child",
+      "Sorted",
+      "Random"
+    ],
+    "answer": "Parent > child",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dd4",
+    "question": "Priority queue uses?",
+    "options": [
+      "Heap",
+      "Stack",
+      "Queue",
+      "Array"
+    ],
+    "answer": "Heap",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dd5",
+    "question": "Dynamic programming?",
+    "options": [
+      "Divide problem",
+      "Greedy",
+      "Recursive storage",
+      "Sorting"
+    ],
+    "answer": "Recursive storage",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dd6",
+    "question": "Greedy algorithm?",
+    "options": [
+      "Local optimum",
+      "Global optimum",
+      "Recursion",
+      "Backtracking"
+    ],
+    "answer": "Local optimum",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dd7",
+    "question": "Backtracking used in?",
+    "options": [
+      "N-Queens",
+      "Sorting",
+      "Searching",
+      "Traversal"
+    ],
+    "answer": "N-Queens",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dd8",
+    "question": "Branch and bound?",
+    "options": [
+      "Optimization",
+      "Sorting",
+      "Traversal",
+      "Searching"
+    ],
+    "answer": "Optimization",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dd9",
+    "question": "Graph cycle detection?",
+    "options": [
+      "DFS",
+      "BFS",
+      "Stack",
+      "Queue"
+    ],
+    "answer": "DFS",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dda",
+    "question": "Topological sort works on?",
+    "options": [
+      "DAG",
+      "Tree",
+      "Array",
+      "Stack"
+    ],
+    "answer": "DAG",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7ddb",
+    "question": "Trie used for?",
+    "options": [
+      "Strings",
+      "Numbers",
+      "Sorting",
+      "Graphs"
+    ],
+    "answer": "Strings",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7ddc",
+    "question": "Segment tree?",
+    "options": [
+      "Range queries",
+      "Sorting",
+      "Searching",
+      "Graph"
+    ],
+    "answer": "Range queries",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7ddd",
+    "question": "Fenwick tree?",
+    "options": [
+      "Prefix sum",
+      "Sorting",
+      "Searching",
+      "Traversal"
+    ],
+    "answer": "Prefix sum",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7dde",
+    "question": "Union-Find used for?",
+    "options": [
+      "Connectivity",
+      "Sorting",
+      "Searching",
+      "Traversal"
+    ],
+    "answer": "Connectivity",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7ddf",
+    "question": "KMP algorithm?",
+    "options": [
+      "Pattern matching",
+      "Sorting",
+      "Traversal",
+      "Graph"
+    ],
+    "answer": "Pattern matching",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7de0",
+    "question": "Rabin-Karp?",
+    "options": [
+      "String hashing",
+      "Sorting",
+      "Traversal",
+      "Graph"
+    ],
+    "answer": "String hashing",
+    "difficulty": "medium",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7de1",
+    "question": "Space complexity measures?",
+    "options": [
+      "Memory",
+      "Time",
+      "CPU",
+      "Disk"
+    ],
+    "answer": "Memory",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e23cccf553f814b7de2",
+    "question": "Time complexity measures?",
+    "options": [
+      "Time",
+      "Memory",
+      "CPU",
+      "Disk"
+    ],
+    "answer": "Time",
+    "difficulty": "easy",
+    "topic": "DSA"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7de4",
+    "question": "What does DBMS stand for?",
+    "options": [
+      "Database Management System",
+      "Data Backup Management System",
+      "Database Memory System",
+      "Data Management Structure"
+    ],
+    "answer": "Database Management System",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7de5",
+    "question": "Which language is used in DBMS?",
+    "options": [
+      "SQL",
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "answer": "SQL",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7de6",
+    "question": "Primary key is?",
+    "options": [
+      "Unique identifier",
+      "Foreign key",
+      "Index",
+      "Table"
+    ],
+    "answer": "Unique identifier",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7de7",
+    "question": "Foreign key is?",
+    "options": [
+      "Reference key",
+      "Primary key",
+      "Index",
+      "Unique key"
+    ],
+    "answer": "Reference key",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7de8",
+    "question": "Normalization reduces?",
+    "options": [
+      "Redundancy",
+      "Speed",
+      "Queries",
+      "Indexes"
+    ],
+    "answer": "Redundancy",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7de9",
+    "question": "1NF removes?",
+    "options": [
+      "Repeating groups",
+      "Duplicates",
+      "Null values",
+      "Indexes"
+    ],
+    "answer": "Repeating groups",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7dea",
+    "question": "2NF removes?",
+    "options": [
+      "Partial dependency",
+      "Transitive dependency",
+      "Repeating groups",
+      "Indexes"
+    ],
+    "answer": "Partial dependency",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7deb",
+    "question": "3NF removes?",
+    "options": [
+      "Transitive dependency",
+      "Partial dependency",
+      "Repeating groups",
+      "Indexes"
+    ],
+    "answer": "Transitive dependency",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7dec",
+    "question": "SQL SELECT used for?",
+    "options": [
+      "Retrieve data",
+      "Insert data",
+      "Delete data",
+      "Update data"
+    ],
+    "answer": "Retrieve data",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7ded",
+    "question": "SQL INSERT used for?",
+    "options": [
+      "Add data",
+      "Delete data",
+      "Update data",
+      "Retrieve data"
+    ],
+    "answer": "Add data",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7dee",
+    "question": "SQL DELETE used for?",
+    "options": [
+      "Remove data",
+      "Add data",
+      "Update data",
+      "Retrieve data"
+    ],
+    "answer": "Remove data",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7def",
+    "question": "JOIN combines?",
+    "options": [
+      "Tables",
+      "Rows",
+      "Columns",
+      "Indexes"
+    ],
+    "answer": "Tables",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7df0",
+    "question": "INNER JOIN returns?",
+    "options": [
+      "Matching rows",
+      "All rows",
+      "Left rows",
+      "Right rows"
+    ],
+    "answer": "Matching rows",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7df1",
+    "question": "LEFT JOIN returns?",
+    "options": [
+      "All left rows",
+      "All right rows",
+      "Matching rows",
+      "None"
+    ],
+    "answer": "All left rows",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7df2",
+    "question": "RIGHT JOIN returns?",
+    "options": [
+      "All right rows",
+      "All left rows",
+      "Matching rows",
+      "None"
+    ],
+    "answer": "All right rows",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7df3",
+    "question": "Transaction ensures?",
+    "options": [
+      "Consistency",
+      "Speed",
+      "Storage",
+      "Security"
+    ],
+    "answer": "Consistency",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7df4",
+    "question": "ACID stands for?",
+    "options": [
+      "Atomicity Consistency Isolation Durability",
+      "Accuracy Consistency Isolation Data",
+      "Atomicity Control Integrity Data",
+      "None"
+    ],
+    "answer": "Atomicity Consistency Isolation Durability",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7df5",
+    "question": "Index improves?",
+    "options": [
+      "Search speed",
+      "Storage",
+      "Security",
+      "Redundancy"
+    ],
+    "answer": "Search speed",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7df6",
+    "question": "Clustered index?",
+    "options": [
+      "Physical order",
+      "Logical order",
+      "Random",
+      "None"
+    ],
+    "answer": "Physical order",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7df7",
+    "question": "View is?",
+    "options": [
+      "Virtual table",
+      "Physical table",
+      "Index",
+      "Schema"
+    ],
+    "answer": "Virtual table",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7df8",
+    "question": "Schema defines?",
+    "options": [
+      "Structure",
+      "Data",
+      "Indexes",
+      "Queries"
+    ],
+    "answer": "Structure",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7df9",
+    "question": "ER model stands for?",
+    "options": [
+      "Entity Relationship",
+      "Entity Record",
+      "Entry Relation",
+      "None"
+    ],
+    "answer": "Entity Relationship",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7dfa",
+    "question": "Entity is?",
+    "options": [
+      "Object",
+      "Attribute",
+      "Relation",
+      "Key"
+    ],
+    "answer": "Object",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7dfb",
+    "question": "Attribute is?",
+    "options": [
+      "Property",
+      "Object",
+      "Relation",
+      "Key"
+    ],
+    "answer": "Property",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7dfc",
+    "question": "Candidate key?",
+    "options": [
+      "Possible key",
+      "Primary key",
+      "Foreign key",
+      "Index"
+    ],
+    "answer": "Possible key",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7dfd",
+    "question": "Super key?",
+    "options": [
+      "Set of attributes",
+      "Single attribute",
+      "Index",
+      "None"
+    ],
+    "answer": "Set of attributes",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7dfe",
+    "question": "Deadlock occurs when?",
+    "options": [
+      "Processes wait",
+      "Processes run",
+      "Processes stop",
+      "None"
+    ],
+    "answer": "Processes wait",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7dff",
+    "question": "Lock prevents?",
+    "options": [
+      "Conflict",
+      "Speed",
+      "Queries",
+      "Storage"
+    ],
+    "answer": "Conflict",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e00",
+    "question": "Data redundancy means?",
+    "options": [
+      "Duplicate data",
+      "Unique data",
+      "No data",
+      "Index"
+    ],
+    "answer": "Duplicate data",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e01",
+    "question": "SQL constraint?",
+    "options": [
+      "Rule",
+      "Query",
+      "Index",
+      "Table"
+    ],
+    "answer": "Rule",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e02",
+    "question": "NOT NULL constraint?",
+    "options": [
+      "No null values",
+      "Null allowed",
+      "Delete data",
+      "Insert data"
+    ],
+    "answer": "No null values",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e03",
+    "question": "UNIQUE constraint?",
+    "options": [
+      "Unique values",
+      "Duplicate values",
+      "Null values",
+      "None"
+    ],
+    "answer": "Unique values",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e04",
+    "question": "CHECK constraint?",
+    "options": [
+      "Condition check",
+      "Insert data",
+      "Delete data",
+      "None"
+    ],
+    "answer": "Condition check",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e05",
+    "question": "DEFAULT constraint?",
+    "options": [
+      "Default value",
+      "Unique value",
+      "Null value",
+      "None"
+    ],
+    "answer": "Default value",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e06",
+    "question": "Trigger is?",
+    "options": [
+      "Auto action",
+      "Manual query",
+      "Index",
+      "Schema"
+    ],
+    "answer": "Auto action",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e07",
+    "question": "Stored procedure?",
+    "options": [
+      "Predefined query",
+      "Index",
+      "Table",
+      "Schema"
+    ],
+    "answer": "Predefined query",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e08",
+    "question": "Denormalization used for?",
+    "options": [
+      "Performance",
+      "Redundancy",
+      "Security",
+      "Index"
+    ],
+    "answer": "Performance",
+    "difficulty": "medium",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e09",
+    "question": "Relational DB uses?",
+    "options": [
+      "Tables",
+      "Graphs",
+      "Stacks",
+      "Queues"
+    ],
+    "answer": "Tables",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e0a",
+    "question": "NoSQL DB?",
+    "options": [
+      "Non relational",
+      "Relational",
+      "Structured",
+      "None"
+    ],
+    "answer": "Non relational",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e0b",
+    "question": "CAP theorem?",
+    "options": [
+      "Consistency Availability Partition",
+      "Control Access Partition",
+      "Consistency Access Protocol",
+      "None"
+    ],
+    "answer": "Consistency Availability Partition",
+    "difficulty": "hard",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87e9ccccf553f814b7e0c",
+    "question": "MongoDB is?",
+    "options": [
+      "NoSQL",
+      "SQL",
+      "Relational",
+      "None"
+    ],
+    "answer": "NoSQL",
+    "difficulty": "easy",
+    "topic": "DBMS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e0e",
+    "question": "What is an Operating System?",
+    "options": [
+      "System software",
+      "Application software",
+      "Hardware",
+      "Compiler"
+    ],
+    "answer": "System software",
+    "difficulty": "easy",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e0f",
+    "question": "OS manages?",
+    "options": [
+      "Resources",
+      "Programs",
+      "Memory",
+      "All"
+    ],
+    "answer": "All",
+    "difficulty": "easy",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e10",
+    "question": "Process is?",
+    "options": [
+      "Program in execution",
+      "Stored program",
+      "File",
+      "Thread"
+    ],
+    "answer": "Program in execution",
+    "difficulty": "easy",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e11",
+    "question": "Thread is?",
+    "options": [
+      "Lightweight process",
+      "Heavy process",
+      "Program",
+      "Memory"
+    ],
+    "answer": "Lightweight process",
+    "difficulty": "easy",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e12",
+    "question": "CPU scheduling decides?",
+    "options": [
+      "Process execution",
+      "Memory allocation",
+      "Disk usage",
+      "I/O"
+    ],
+    "answer": "Process execution",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e13",
+    "question": "FCFS stands for?",
+    "options": [
+      "First Come First Serve",
+      "First CPU First Serve",
+      "Fast Come Fast Serve",
+      "None"
+    ],
+    "answer": "First Come First Serve",
+    "difficulty": "easy",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e14",
+    "question": "Round Robin uses?",
+    "options": [
+      "Time slice",
+      "Priority",
+      "Random",
+      "FIFO"
+    ],
+    "answer": "Time slice",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e15",
+    "question": "Deadlock occurs when?",
+    "options": [
+      "Processes wait indefinitely",
+      "Processes execute",
+      "Processes terminate",
+      "None"
+    ],
+    "answer": "Processes wait indefinitely",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e16",
+    "question": "Deadlock conditions count?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "4",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e17",
+    "question": "Mutual exclusion means?",
+    "options": [
+      "One process at a time",
+      "Multiple processes",
+      "No process",
+      "All processes"
+    ],
+    "answer": "One process at a time",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e18",
+    "question": "Semaphore is?",
+    "options": [
+      "Synchronization tool",
+      "Memory",
+      "Process",
+      "Thread"
+    ],
+    "answer": "Synchronization tool",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e19",
+    "question": "Paging is?",
+    "options": [
+      "Memory management",
+      "Scheduling",
+      "File system",
+      "Deadlock"
+    ],
+    "answer": "Memory management",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e1a",
+    "question": "Page fault occurs when?",
+    "options": [
+      "Page not in memory",
+      "Page in memory",
+      "CPU idle",
+      "None"
+    ],
+    "answer": "Page not in memory",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e1b",
+    "question": "Virtual memory uses?",
+    "options": [
+      "Disk",
+      "RAM",
+      "CPU",
+      "Cache"
+    ],
+    "answer": "Disk",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e1c",
+    "question": "Thrashing occurs when?",
+    "options": [
+      "Too many page faults",
+      "CPU idle",
+      "Disk full",
+      "None"
+    ],
+    "answer": "Too many page faults",
+    "difficulty": "hard",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e1d",
+    "question": "FIFO page replacement?",
+    "options": [
+      "Oldest removed",
+      "Newest removed",
+      "Random",
+      "None"
+    ],
+    "answer": "Oldest removed",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e1e",
+    "question": "LRU stands for?",
+    "options": [
+      "Least Recently Used",
+      "Last Recently Used",
+      "Least Required Unit",
+      "None"
+    ],
+    "answer": "Least Recently Used",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e1f",
+    "question": "File system manages?",
+    "options": [
+      "Files",
+      "Memory",
+      "CPU",
+      "Process"
+    ],
+    "answer": "Files",
+    "difficulty": "easy",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e20",
+    "question": "Kernel is?",
+    "options": [
+      "Core of OS",
+      "Application",
+      "File",
+      "Process"
+    ],
+    "answer": "Core of OS",
+    "difficulty": "easy",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e21",
+    "question": "System call is?",
+    "options": [
+      "Interface",
+      "Program",
+      "File",
+      "Thread"
+    ],
+    "answer": "Interface",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e22",
+    "question": "Multiprocessing means?",
+    "options": [
+      "Multiple CPUs",
+      "Multiple users",
+      "Multiple files",
+      "None"
+    ],
+    "answer": "Multiple CPUs",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e23",
+    "question": "Multithreading means?",
+    "options": [
+      "Multiple threads",
+      "Multiple CPUs",
+      "Multiple users",
+      "None"
+    ],
+    "answer": "Multiple threads",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e24",
+    "question": "Context switch is?",
+    "options": [
+      "Switch process",
+      "Switch memory",
+      "Switch file",
+      "None"
+    ],
+    "answer": "Switch process",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e25",
+    "question": "Spooling is?",
+    "options": [
+      "Buffering",
+      "Scheduling",
+      "Memory",
+      "File"
+    ],
+    "answer": "Buffering",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e26",
+    "question": "Interrupt is?",
+    "options": [
+      "Signal to CPU",
+      "Memory",
+      "File",
+      "Thread"
+    ],
+    "answer": "Signal to CPU",
+    "difficulty": "easy",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e27",
+    "question": "DMA stands for?",
+    "options": [
+      "Direct Memory Access",
+      "Dynamic Memory Allocation",
+      "Data Memory Access",
+      "None"
+    ],
+    "answer": "Direct Memory Access",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e28",
+    "question": "Scheduling algorithm?",
+    "options": [
+      "Process selection",
+      "Memory allocation",
+      "Disk",
+      "File"
+    ],
+    "answer": "Process selection",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e29",
+    "question": "Priority scheduling?",
+    "options": [
+      "Based on priority",
+      "Based on time",
+      "Random",
+      "None"
+    ],
+    "answer": "Based on priority",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e2a",
+    "question": "Starvation means?",
+    "options": [
+      "Process never executes",
+      "Process runs",
+      "Process ends",
+      "None"
+    ],
+    "answer": "Process never executes",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e2b",
+    "question": "Aging prevents?",
+    "options": [
+      "Starvation",
+      "Deadlock",
+      "Crash",
+      "None"
+    ],
+    "answer": "Starvation",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e2c",
+    "question": "Disk scheduling?",
+    "options": [
+      "Manage disk access",
+      "CPU",
+      "Memory",
+      "File"
+    ],
+    "answer": "Manage disk access",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e2d",
+    "question": "SSTF stands for?",
+    "options": [
+      "Shortest Seek Time First",
+      "Shortest System Time",
+      "Simple Seek Time",
+      "None"
+    ],
+    "answer": "Shortest Seek Time First",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e2e",
+    "question": "SCAN algorithm?",
+    "options": [
+      "Elevator algorithm",
+      "Random",
+      "FIFO",
+      "None"
+    ],
+    "answer": "Elevator algorithm",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e2f",
+    "question": "File allocation?",
+    "options": [
+      "Disk space",
+      "CPU",
+      "Memory",
+      "Thread"
+    ],
+    "answer": "Disk space",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e30",
+    "question": "Contiguous allocation?",
+    "options": [
+      "Continuous blocks",
+      "Random",
+      "Linked",
+      "None"
+    ],
+    "answer": "Continuous blocks",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e31",
+    "question": "Fragmentation types?",
+    "options": [
+      "Internal external",
+      "Only internal",
+      "Only external",
+      "None"
+    ],
+    "answer": "Internal external",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e32",
+    "question": "Swapping is?",
+    "options": [
+      "Move process",
+      "Delete process",
+      "Create process",
+      "None"
+    ],
+    "answer": "Move process",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e33",
+    "question": "Booting is?",
+    "options": [
+      "Start OS",
+      "Stop OS",
+      "Restart app",
+      "None"
+    ],
+    "answer": "Start OS",
+    "difficulty": "easy",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e34",
+    "question": "Shell is?",
+    "options": [
+      "User interface",
+      "Kernel",
+      "Memory",
+      "File"
+    ],
+    "answer": "User interface",
+    "difficulty": "easy",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e35",
+    "question": "Batch OS?",
+    "options": [
+      "No interaction",
+      "Interactive",
+      "Real time",
+      "None"
+    ],
+    "answer": "No interaction",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e36",
+    "question": "Time-sharing OS?",
+    "options": [
+      "Interactive",
+      "Batch",
+      "Real time",
+      "None"
+    ],
+    "answer": "Interactive",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e37",
+    "question": "Real-time OS?",
+    "options": [
+      "Immediate response",
+      "Slow response",
+      "Batch",
+      "None"
+    ],
+    "answer": "Immediate response",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e38",
+    "question": "Distributed OS?",
+    "options": [
+      "Multiple systems",
+      "Single system",
+      "Memory",
+      "None"
+    ],
+    "answer": "Multiple systems",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e39",
+    "question": "Network OS?",
+    "options": [
+      "Network support",
+      "CPU",
+      "Memory",
+      "None"
+    ],
+    "answer": "Network support",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e3a",
+    "question": "Process states?",
+    "options": [
+      "Ready Running Waiting",
+      "Only running",
+      "Only ready",
+      "None"
+    ],
+    "answer": "Ready Running Waiting",
+    "difficulty": "medium",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e3b",
+    "question": "Zombie process?",
+    "options": [
+      "Terminated but exists",
+      "Running",
+      "Ready",
+      "None"
+    ],
+    "answer": "Terminated but exists",
+    "difficulty": "hard",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f09cccf553f814b7e3c",
+    "question": "Orphan process?",
+    "options": [
+      "Parent terminated",
+      "Child terminated",
+      "Running",
+      "None"
+    ],
+    "answer": "Parent terminated",
+    "difficulty": "hard",
+    "topic": "OS"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e3e",
+    "question": "What does CN stand for?",
+    "options": [
+      "Computer Networks",
+      "Central Network",
+      "Core Network",
+      "Communication Node"
+    ],
+    "answer": "Computer Networks",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e3f",
+    "question": "Network is?",
+    "options": [
+      "Connected devices",
+      "Single device",
+      "CPU",
+      "Memory"
+    ],
+    "answer": "Connected devices",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e40",
+    "question": "OSI model layers?",
+    "options": [
+      "7",
+      "5",
+      "4",
+      "3"
+    ],
+    "answer": "7",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e41",
+    "question": "TCP/IP layers?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "3"
+    ],
+    "answer": "4",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e42",
+    "question": "Physical layer handles?",
+    "options": [
+      "Bits",
+      "Packets",
+      "Frames",
+      "Messages"
+    ],
+    "answer": "Bits",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e43",
+    "question": "Data link layer handles?",
+    "options": [
+      "Frames",
+      "Bits",
+      "Packets",
+      "Messages"
+    ],
+    "answer": "Frames",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e44",
+    "question": "Network layer handles?",
+    "options": [
+      "Packets",
+      "Frames",
+      "Bits",
+      "Signals"
+    ],
+    "answer": "Packets",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e45",
+    "question": "Transport layer handles?",
+    "options": [
+      "Segments",
+      "Packets",
+      "Frames",
+      "Bits"
+    ],
+    "answer": "Segments",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e46",
+    "question": "IP stands for?",
+    "options": [
+      "Internet Protocol",
+      "Internal Protocol",
+      "Internet Process",
+      "None"
+    ],
+    "answer": "Internet Protocol",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e47",
+    "question": "TCP stands for?",
+    "options": [
+      "Transmission Control Protocol",
+      "Transfer Control Protocol",
+      "Transport Core Protocol",
+      "None"
+    ],
+    "answer": "Transmission Control Protocol",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e48",
+    "question": "UDP is?",
+    "options": [
+      "Connectionless",
+      "Connection oriented",
+      "Secure",
+      "Slow"
+    ],
+    "answer": "Connectionless",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e49",
+    "question": "TCP is?",
+    "options": [
+      "Connection oriented",
+      "Connectionless",
+      "Unreliable",
+      "None"
+    ],
+    "answer": "Connection oriented",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e4a",
+    "question": "IP address is?",
+    "options": [
+      "Unique identifier",
+      "Port number",
+      "MAC",
+      "None"
+    ],
+    "answer": "Unique identifier",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e4b",
+    "question": "IPv4 size?",
+    "options": [
+      "32-bit",
+      "64-bit",
+      "128-bit",
+      "16-bit"
+    ],
+    "answer": "32-bit",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e4c",
+    "question": "IPv6 size?",
+    "options": [
+      "128-bit",
+      "64-bit",
+      "32-bit",
+      "256-bit"
+    ],
+    "answer": "128-bit",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e4d",
+    "question": "MAC address is?",
+    "options": [
+      "Physical address",
+      "Logical address",
+      "IP",
+      "None"
+    ],
+    "answer": "Physical address",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e4e",
+    "question": "Router works at?",
+    "options": [
+      "Network layer",
+      "Transport",
+      "Data link",
+      "Physical"
+    ],
+    "answer": "Network layer",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e4f",
+    "question": "Switch works at?",
+    "options": [
+      "Data link",
+      "Network",
+      "Transport",
+      "Application"
+    ],
+    "answer": "Data link",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e50",
+    "question": "Hub works at?",
+    "options": [
+      "Physical",
+      "Network",
+      "Transport",
+      "Application"
+    ],
+    "answer": "Physical",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e51",
+    "question": "DNS converts?",
+    "options": [
+      "Domain to IP",
+      "IP to domain",
+      "MAC",
+      "None"
+    ],
+    "answer": "Domain to IP",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e52",
+    "question": "HTTP stands for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Protocol",
+      "Host Transfer Protocol",
+      "None"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e53",
+    "question": "HTTPS uses?",
+    "options": [
+      "Encryption",
+      "Compression",
+      "Routing",
+      "None"
+    ],
+    "answer": "Encryption",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e54",
+    "question": "FTP used for?",
+    "options": [
+      "File transfer",
+      "Email",
+      "Web",
+      "Chat"
+    ],
+    "answer": "File transfer",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e55",
+    "question": "SMTP used for?",
+    "options": [
+      "Email sending",
+      "File transfer",
+      "Routing",
+      "None"
+    ],
+    "answer": "Email sending",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e56",
+    "question": "POP3 used for?",
+    "options": [
+      "Email receiving",
+      "File transfer",
+      "Routing",
+      "None"
+    ],
+    "answer": "Email receiving",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e57",
+    "question": "Port number identifies?",
+    "options": [
+      "Process",
+      "Device",
+      "Network",
+      "None"
+    ],
+    "answer": "Process",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e58",
+    "question": "Well-known ports range?",
+    "options": [
+      "0-1023",
+      "1024-65535",
+      "0-65535",
+      "None"
+    ],
+    "answer": "0-1023",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e59",
+    "question": "Subnet mask is?",
+    "options": [
+      "Network identifier",
+      "Device ID",
+      "MAC",
+      "None"
+    ],
+    "answer": "Network identifier",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e5a",
+    "question": "NAT stands for?",
+    "options": [
+      "Network Address Translation",
+      "Node Access Transfer",
+      "Network Access Table",
+      "None"
+    ],
+    "answer": "Network Address Translation",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e5b",
+    "question": "Firewall is?",
+    "options": [
+      "Security system",
+      "Router",
+      "Switch",
+      "None"
+    ],
+    "answer": "Security system",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e5c",
+    "question": "Ping uses?",
+    "options": [
+      "ICMP",
+      "TCP",
+      "UDP",
+      "HTTP"
+    ],
+    "answer": "ICMP",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e5d",
+    "question": "ARP resolves?",
+    "options": [
+      "IP to MAC",
+      "MAC to IP",
+      "DNS",
+      "None"
+    ],
+    "answer": "IP to MAC",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e5e",
+    "question": "Bandwidth is?",
+    "options": [
+      "Data rate",
+      "Latency",
+      "Delay",
+      "None"
+    ],
+    "answer": "Data rate",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e5f",
+    "question": "Latency is?",
+    "options": [
+      "Delay",
+      "Speed",
+      "Bandwidth",
+      "None"
+    ],
+    "answer": "Delay",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e60",
+    "question": "Packet switching?",
+    "options": [
+      "Data in packets",
+      "Continuous signal",
+      "Analog",
+      "None"
+    ],
+    "answer": "Data in packets",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e61",
+    "question": "Circuit switching?",
+    "options": [
+      "Dedicated path",
+      "Packets",
+      "Dynamic",
+      "None"
+    ],
+    "answer": "Dedicated path",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e62",
+    "question": "Collision occurs in?",
+    "options": [
+      "Shared medium",
+      "Dedicated medium",
+      "Fiber",
+      "None"
+    ],
+    "answer": "Shared medium",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e63",
+    "question": "CSMA/CD used in?",
+    "options": [
+      "Ethernet",
+      "WiFi",
+      "Fiber",
+      "None"
+    ],
+    "answer": "Ethernet",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e64",
+    "question": "WiFi uses?",
+    "options": [
+      "Wireless",
+      "Wired",
+      "Fiber",
+      "None"
+    ],
+    "answer": "Wireless",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e65",
+    "question": "Bluetooth is?",
+    "options": [
+      "Short-range",
+      "Long-range",
+      "Fiber",
+      "None"
+    ],
+    "answer": "Short-range",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e66",
+    "question": "Topology means?",
+    "options": [
+      "Network structure",
+      "Device",
+      "Cable",
+      "None"
+    ],
+    "answer": "Network structure",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e67",
+    "question": "Star topology?",
+    "options": [
+      "Central node",
+      "Ring",
+      "Bus",
+      "Mesh"
+    ],
+    "answer": "Central node",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e68",
+    "question": "Ring topology?",
+    "options": [
+      "Circular",
+      "Central",
+      "Bus",
+      "Mesh"
+    ],
+    "answer": "Circular",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e69",
+    "question": "Mesh topology?",
+    "options": [
+      "All connected",
+      "Single",
+      "Bus",
+      "None"
+    ],
+    "answer": "All connected",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e6a",
+    "question": "Bus topology?",
+    "options": [
+      "Single cable",
+      "Multiple cables",
+      "Ring",
+      "None"
+    ],
+    "answer": "Single cable",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e6b",
+    "question": "OSI top layer?",
+    "options": [
+      "Application",
+      "Transport",
+      "Network",
+      "Physical"
+    ],
+    "answer": "Application",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e6c",
+    "question": "OSI bottom layer?",
+    "options": [
+      "Physical",
+      "Application",
+      "Transport",
+      "Network"
+    ],
+    "answer": "Physical",
+    "difficulty": "easy",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e6d",
+    "question": "Error detection uses?",
+    "options": [
+      "CRC",
+      "HTTP",
+      "FTP",
+      "DNS"
+    ],
+    "answer": "CRC",
+    "difficulty": "medium",
+    "topic": "CN"
+  },
+  {
+    "_id": "69f87f6bcccf553f814b7e6e",
+    "question": "Flow control prevents?",
+    "options": [
+      "Overflow",
+      "Underflow",
+      "Crash",
+      "None"
+    ],
+    "answer": "Overflow",
+    "difficulty": "medium",
+    "topic": "CN"
+  }
+]
